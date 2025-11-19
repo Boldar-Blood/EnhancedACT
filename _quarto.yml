@@ -1,0 +1,22 @@
+output-file: index.html
+project:
+  title: "Enhanced ACT"
+
+website:
+  title: Enhanced ACT
+
+format:
+  revealjs:
+    theme: simple
+  pptx:
+    reference-doc: BWTPresentationTemplate.pptx
+  beamer:
+    theme: metropolis
+    include-in-header: preamble.tex
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    code-fold: true
+    code-summary: "Click to show/hide code"

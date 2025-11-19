@@ -4,8 +4,8 @@ subtitle: "International College Counselors Team Briefing"
 author: "Joshua West"
 date: "November 2025"
 format:
-  pptx:
-    reference-doc: BWTPresentationTemplate.pptx
+  #pptx:
+    #reference-doc: BWTPresentationTemplate.pptx
   html:
     toc: true
     number-sections: false

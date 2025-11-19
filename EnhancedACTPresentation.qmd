@@ -1,0 +1,345 @@
+---
+title: "Enhanced ACT & Optional Science: Counseling Implications"
+subtitle: "International College Counselors Team Briefing"
+author: "Joshua West"
+date: "November 2025"
+format:
+  pptx:
+    reference-doc: BWTPowerpointTemplate.pptx
+---
+
+## Welcome & Session Goals
+
+- **Why we’re here**
+  - The ACT is rolling out an **Enhanced ACT** with **optional Science**.
+  - Colleges and scholarships are responding in **different ways**.
+- **Today’s focus (≈15 minutes)**
+  - High-level overview of the **Enhanced ACT** (beyond just Science).
+  - What’s changing for **ACT Science** and **STEM signaling**.
+  - How key colleges — and **Florida Bright Futures** — are handling it.
+  - How we, as a counseling team, can **advise families confidently**.
+- **What you’ll leave with**
+  - A simple **decision framework** for students.
+  - A clearer sense of **when to recommend ACT Science**.
+  - Clarity on **how and when to loop me in** for student questions.
+
+::: {.notes}
+This opening slide frames the session as high-level and practical.  
+Emphasize that the Enhanced ACT is not just a Science tweak; it changes how scores are calculated and reported, which affects strategy, messaging, and scholarship planning.
+
+Stress that we’ll:
+- Give counselors a concise overview, not a deep psychometrics seminar.
+- Focus on the practical “What should I tell this family?” questions.
+- Hit Florida Bright Futures specifically because it’s new and affects many of our families.
+
+Set expectations: about 15 minutes today, with this deck and notes available later for anyone who can’t attend or wants a deeper review.
+:::
+
+---
+
+## About Joshua West
+
+- **Who I am**
+  - **President & Educator**, On the Rise Education (nonprofit).
+  - ~**26 years** teaching and tutoring experience (K–12, college, adult learners).
+- **What I do**
+  - Specialize in **test prep** (ACT, SAT, PSAT, ISEE/SSAT, AP exams) and **academic support**.
+  - Work extensively with students who have **ADHD, anxiety, and learning differences**.
+  - Support families with **test planning, timelines, and score strategy**.
+- **How I can help this team**
+  - Available to **consult on individual student cases** (especially tricky testing situations).
+  - Happy to **translate policy changes** into clear action steps for counselors and families.
+  - Consider me your **“ACT/Testing nerd on call”** – send me your edge cases and “what do we do here?” questions.
+
+::: {.notes}
+Use this slide to keep your intro short but reassuring.
+
+Pull highlights from your resume:
+- Long tenure in education and test prep across standardized exams.
+- Experience designing curricula, training other tutors, and working with diverse learners (including neurodivergent students).
+- Leadership role at On the Rise Education, which shows you understand both pedagogy and program design.
+
+Key message to the team:
+- I’m not just “the test guy”; I’m someone who can help you interpret fast-changing policies and build realistic testing plans for real students.
+- Invite them explicitly: “If you’re unsure whether a student should add ACT Science, or how to read two different ACT score reports, please reach out. I’d rather help early than fix something late.”
+:::
+
+---
+
+## Big Picture: The Enhanced ACT (2025+)
+
+- **Core structure**
+  - **Three required sections**: English, Math, Reading (EMR).
+  - **Optional sections**: Science (now optional like Writing) and Writing.
+- **Scoring basics**
+  - Composite ACT score now = **average of EMR only** (1–36).
+  - Science is scored separately (1–36) and used with Math to form the **STEM score**.
+  - ACT Superscore uses **EMR only**; Science does **not** affect Superscore.
+- **Rollout timeline**
+  - Digital/online Enhanced ACT: **April 2025 onward**.
+  - Paper ACT transitions by late **2025**; legacy paper format retires.
+- **Implication for us**
+  - Students now have to **decide** whether to add Science.
+  - Colleges & scholarships can choose **whether and how** to use the Science score.
+
+::: {.notes}
+This slide gives the high-level “what changed” beyond just Science:
+
+- The Enhanced ACT shortens the test and simplifies the composite by focusing only on English, Math, and Reading.
+- Science becomes optional but lives alongside Math in the STEM score.
+- Superscoring has changed: ACT’s official Superscore ignores Science. This matters for how colleges see “best scores.”
+
+Stress that:
+- From a student/family perspective, ACT is no longer a single fixed package; it’s more customizable.
+- From a counseling perspective, that customization introduces **new strategic decisions** and **new policy noise**.
+
+You don’t need to recite timing minutiae; just make clear that:
+- Spring 2025 = start of the new era.
+- By the time current sophomores/juniors are testing, Enhanced ACT will be standard.
+:::
+
+---
+
+## What Changed in ACT Science?
+
+- **From required to optional**
+  - Previously: Science was **required** and part of the composite.
+  - Now: Science is **optional**, scored separately, and **not** in the composite or ACT Superscore.
+- **Format & role**
+  - Still a **40-question**, data-analysis-heavy section (1–36 scale).
+  - Pairs with Math to produce a **STEM score** that colleges may still value.
+- **Reporting**
+  - Students can register **with or without Science**.
+  - Score reports show:
+    - EMR scores
+    - **Composite (EMR only)**
+    - Science score (if taken)
+    - STEM score (if Science is taken)
+- **Key takeaway**
+  - Science is **no longer “baked in”** to the composite — but it still exists as a **signal**, especially for STEM-leaning students and some scholarships.
+
+::: {.notes}
+Here, emphasize the “feel” of Science relative to students’ experience:
+
+- The content and skills of ACT Science are largely unchanged: interpreting charts, graphs, and experimental setups, not long biology lectures.
+- The big shift is **policy and math**, not the nature of questions.
+
+Counseling implications:
+- A weak Science score no longer drags down the composite or the ACT Superscore.
+- A strong Science score can create a **nice STEM story**: strong Math + Science, good for engineering, pre-med, etc.
+- Students may assume “optional” = “doesn’t matter.” Our job is to explain that optional means **colleges have choices**, not that Science is irrelevant.
+
+If asked, you can briefly note that there is a small extra fee for adding Science, but the main concern is **time and fatigue** on test day.
+:::
+
+---
+
+## Why Optional Science Still Matters
+
+- **STEM readiness signal**
+  - ACT’s **STEM benchmark** uses Math + Science to predict success in **first-year STEM courses** and persistence in STEM majors.
+  - Higher Math/Science performance is linked to **better STEM outcomes**.
+- **Predictive value**
+  - ACT scores (with HSGPA) still add **predictive power** for college GPA and degree completion.
+  - STEM courses often grade more stringently; strong Math/Science scores can help contextualize a transcript.
+- **Practical implication**
+  - Even though Science won’t raise the **composite**, a solid Science + STEM score can:
+    - Strengthen applications for **engineering, CS, pre-med, and other STEM majors**.
+    - Support scholarship or honors-program review that looks at **STEM indicators**.
+- **Rule of thumb**
+  - If **STEM is on the table at all**, Science is **usually worth taking at least once**.
+
+::: {.notes}
+Use this slide to push back gently against the “I hate science so I’ll just skip it” narrative, especially for younger students who might change their minds.
+
+Key ideas:
+- ACT’s own research shows that Math + Science performance matters for STEM success, and they built a formal STEM benchmark around that.
+- Colleges and programs that care about STEM will keep looking at **both** Math and Science if they’re available.
+
+How to phrase it to families:
+- “Even if Science doesn’t change the composite, it can still tell a helpful story if your student is aiming at anything math- or science-heavy.”
+- “If there’s any chance of STEM, we want that option open rather than closed.”
+
+You can also point out that a good Science score **never hurts**; now that it doesn’t drag down the Superscore, it’s mostly upside.
+:::
+
+---
+
+## What Colleges & Common App Are Doing
+
+- **ACT’s stance**
+  - Science is now **“student choice”**; colleges can **require, recommend, ignore, or superscore** it as they see fit.
+- **Common App**
+  - Starting with the 2025–26 cycle, students can self-report:
+    - An ACT **with Science** *or*
+    - An ACT **without Science**
+  - This signals broad acceptance of both reporting paths.
+- **Elite colleges (current examples)**
+  - **Harvard**: “The optional science portion of the new ACT is **not required**.”  
+  - **Stanford**: ACT’s optional Science section is also **optional for Stanford**.
+  - **Princeton**: Accepts the redesigned ACT; Science is **optional** for the new test version.
+- **Bottom line**
+  - Many highly selective schools are **comfortable** with ACT submissions without Science.
+  - But **programs and scholarships** can still have **stricter expectations** than the general admission office.
+
+::: {.notes}
+This slide reinforces that “optional” is real at many top schools:
+
+- Harvard, Stanford, Princeton, and others have gone on record that the optional ACT Science section is not required for their applications.
+- Common App supporting ACT with or without Science is a strong signal that schools are prepared for both types of score reports.
+
+However, stress the nuance:
+- “The college” may not require Science, but **specific programs** (engineering, nursing, pre-health, selective STEM honors) might still strongly prefer or expect it.
+- As policies evolve, you’ll maintain a shared tracking document so the team doesn’t have to chase every nuance alone.
+
+Keep it simple in your talk, then let counselors read the notes and references if they want more detail.
+:::
+
+---
+
+## Select Private Universities: ACT Science Policies
+
+| School | SAT/ACT required?* | How they treat ACT Science (new exam) |
+| :---- | :------------------ | :------------------------------------- |
+| **Boston University** | Test-optional through Fall 2028/Spring 2029 | If you submit ACT, BU **requires Science** to be included in the report. |
+| **Columbia** | Test-optional (current policy; see site) | Accepts new ACT **with or without Science**; students choose whether to send scores at all. |
+| **Cornell** | Testing required starting Fall 2026 | Science **not required**; ACT composite based on EMR. |
+| **Duke** | Test-optional | Science **encouraged** for STEM but **not required**. |
+| **Harvard** | Test-required; see current policy | Optional Science **not required**; any ACT version accepted. |
+| **MIT** | Testing required (SAT or ACT) | Science **not required**; ACT Writing also not required. |
+| **Northwestern** | Test-optional (current cycle) | Science **optional**; composite and superscore follow EMR-only approach. |
+| **Penn** | Testing required for 2025–26 | ACT Science **not required** for ACT submitters. |
+| **Stanford** | Testing required (with hardship waivers) | ACT Science **optional**; accepts original and redesigned ACT. |
+| **Vanderbilt** | Test-optional through Fall 2027 | Science **not required**; if submitted, used **only when it raises** the ACT superscore. |
+| **Yale** | Requires testing (test-flexible: SAT, ACT, AP/IB) | ACT Science & Writing **optional**; ACT super-scoring allowed. |
+
+\*Always verify each school’s current first-year policy on its testing page.
+
+::: {.notes}
+This slide shows **patterns**, not a static forever-list:
+
+- Many selective privates **do not require** Science; a few (like BU) still require it if a student chooses the ACT route.
+- Some schools (e.g., Vanderbilt) use Science only if it **helps** the superscore.
+- Yale and similar schools have **test-flexible** structures where ACT Science is explicitly optional.
+
+How counselors can use this in practice:
+- For a student targeting BU or any school that **requires** Science, that’s easy: they **must** test with Science.
+- For a student targeting only schools that treat Science as optional, you can think strategically:
+  - STEM? Add Science.
+  - Non-STEM, weaker in Science? Possibly skip, once you’re sure of their final list.
+
+Remind the team that policies are moving and we’re tracking them in a shared spreadsheet. The slide table is a snapshot; the real power is in knowing the question to ask on each college’s testing page.
+:::
+
+---
+
+## Select Public Flagships & Systems
+
+| School / System | SAT/ACT policy* | ACT Science treatment |
+| :-------------- | :-------------- | :-------------------- |
+| **UC (all campuses)** | **Test-free** for admission | ACT/SAT not used for admission; may be used later for **placement** only. |
+| **Ohio State (Columbus)** | Testing required for many first-year applicants | Composite and any superscore based on **EMR**; Science not required. |
+| **University of Florida** | Testing required (SAT/ACT/CLT) | Science **optional**; UF superscores using **English, Reading, Math only**. |
+| **University of Georgia** | See page for current state policy | Will **not require** Science; aligns superscore to **EMR only**. |
+| **UIUC (Urbana-Champaign)** | Test-optional | No separate Science requirement stated; ACT review focuses on EMR. |
+| **UT Austin** | Testing required | Accepts ACT **with or without Science**; if Science is present, that composite may be reviewed. |
+
+\*Always confirm the most recent admission cycle’s policy on the university site.
+
+::: {.notes}
+This slide emphasizes large public patterns:
+
+- The **UC system** is test-free, so ACT Science is irrelevant for admission but can show up later for placement.
+- Several big flagships (OSU, UF, UGA) have aligned with ACT’s EMR-only composite, explicitly not requiring Science for admission.
+
+Important nuance for Florida students:
+- Florida public universities (like UF, FSU, etc.) follow state guidance that **does not require** ACT Science for admission.
+- However, for **Bright Futures**, the way Science is handled in the composite can matter for the scholarship — which we cover on the next slide.
+
+Encourage counselors to:
+- Check each school’s testing FAQ for phrases like “Science optional,” “composite based on English, Math, Reading,” or “we require all ACT subscores.”
+- Flag any confusing or contradictory language and send it to you for interpretation.
+:::
+
+---
+
+## Florida Bright Futures: ACT Science Flexibility
+
+- **New rule (starting with 2025–26 graduating class)**
+  - For **Bright Futures**, the ACT Science section is now **optional**.
+- **How Bright Futures calculates the ACT composite**
+  - If ACT scores **with Science** are reported:
+    - Composite = (English + Math + Reading + Science) ÷ 4.
+  - If ACT scores **without Science** are reported:
+    - Composite = (English + Math + Reading) ÷ 3.
+  - Bright Futures uses the **highest section scores** across sittings.
+- **What this means in practice**
+  - Students can qualify for scholarships **with or without Science**, depending on which route yields the **higher composite**.
+  - Florida public universities themselves **do not require** the Science subsection for admission.
+- **Talking point for Florida families**
+  - “Bright Futures lets you use whichever ACT combination (with or without Science) gives you the **stronger composite** — we’ll plan your testing to keep both options open.”
+
+::: {.notes}
+Here, explicitly connect to what the COO asked for:
+
+- Bright Futures now formally allows ACT composites built either with EMRS or just EMR, using the best subscores.
+- That effectively means students can “use or not use” Science, whichever gets them to the needed scholarship cutoff.
+
+How to explain it to families:
+- “If you take ACT with Science, Bright Futures will average all four subscores.”
+- “If you take ACT without Science, they’ll average three subscores.”
+- “They’ll use your best section scores overall. We’ll look at both pathways and see which composite helps you reach the Bright Futures threshold.”
+
+Key counseling takeaway:
+- For Florida students, taking ACT with Science **at least once** keeps the scholarship route flexible.
+- If Science ends up being a weakness, Bright Futures policy gives us a way to ignore it; if it’s a strength, we take advantage of it.
+:::
+
+---
+
+## Counseling Framework: Should My Student Take ACT Science?
+
+1. **Clarify likely majors**
+   - Interested in **engineering, CS, data science, health, or “maybe STEM?”**  
+     → **Recommend ACT with Science** (at least once).
+   - Solidly **non-STEM** (humanities, arts, some business) and clearly non-STEM college list?  
+     → Science becomes more **optional**.
+2. **Check college & scholarship policies**
+   - Use a **shared spreadsheet** with columns:
+     - Test required/optional?
+     - ACT Science required/recommended/optional?
+     - Superscore rules and STEM program notes.
+3. **Consider test-day strategy**
+   - Strong EMR but **limited stamina** or test anxiety?
+     - For non-STEM students with no Science requirements: consider **skipping Science**.
+   - Unclear major or evolving list?
+     - Take ACT **with Science at least once**, then decide about later sittings.
+4. **Revisit before senior-year registrations**
+   - Before final test dates, confirm:
+     - College list policies
+     - Scholarship requirements (especially **Bright Futures** and institutional merit)
+   - Adjust plan accordingly.
+
+::: {.notes}
+This slide is designed as a scriptable decision tree:
+
+- Start with **major/interest**: STEM interest almost always pushes toward including Science.
+- Then move to **policies**, not vibes: What do the colleges and scholarships actually say on their websites?
+- Next, fold in **student stamina and stress**. For some non-STEM students, a shorter test may be a real benefit.
+- Finally, remind counselors that a student’s list and interests **move over time**; what’s clear in 10th grade may be different by 11th.
+
+Encourage counselors to:
+- Use the spreadsheet as the “single source of truth” so they’re not each reinventing the wheel.
+- When something on a college website is ambiguous (“may consider STEM components”), send it to you for interpretation and to update the shared notes.
+:::
+
+---
+
+## Examples: How This Plays Out
+
+- **Case 1: Florida student, STEM-curious**
+  - 10th grader in Florida, likes **biology and math**, unsure between pre-med and psychology.
+  - Target list includes **UF, FSU, UCF**, and a couple of out-of-state public flagships.
+  - Counseling recommendation:
+    - Plan for ACT **with Science** early.
+    - Track both **Bright Futures thresholds** and **STEM program expectati**
